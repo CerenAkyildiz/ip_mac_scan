@@ -1,0 +1,6 @@
+C:\Users\Ceren\Desktop\Projeler\network1\network1\bin\Debug\network1.exe.config
+C:\Users\Ceren\Desktop\Projeler\network1\network1\bin\Debug\network1.exe
+C:\Users\Ceren\Desktop\Projeler\network1\network1\bin\Debug\network1.pdb
+C:\Users\Ceren\Desktop\Projeler\network1\network1\obj\Debug\network1.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\Desktop\Projeler\network1\network1\obj\Debug\network1.exe
+C:\Users\Ceren\Desktop\Projeler\network1\network1\obj\Debug\network1.pdb
